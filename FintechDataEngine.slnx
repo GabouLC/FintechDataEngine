@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FintechDataEngine.Api/FintechDataEngine.Api.csproj" />
+  <Project Path="FintechDataEngine.Application/FintechDataEngine.Application.csproj" />
+  <Project Path="FintechDataEngine.Domain/FintechDataEngine.Domain.csproj" />
+  <Project Path="FintechDataEngine.Infrastructure/FintechDataEngine.Infrastructure.csproj" />
+</Solution>
